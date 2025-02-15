@@ -1,4 +1,4 @@
-## Hi there, I'm Vishvesh, a software engineer! 👋
+## Hi there, I'm Vishvesh, a Software Engineer based in the USA! 👋
 
 <!--
 **vishveshpanchal/vishveshpanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
